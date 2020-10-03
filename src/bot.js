@@ -220,7 +220,7 @@ function isvideo(data, chatId, qmsgId) {
         twitt.favorite_count
       }\n 🔁 Retweet: ${
         twitt.retweet_count
-      }\n 📹 Quality: ${data}\n --- \n 🆔 @TwitterDownloaderBot`,
+      }\n 📹 Quality: ${data}`,
             reply_to_message_id: msgId,
             reply_markup: {
                 inline_keyboard: qualityBtn

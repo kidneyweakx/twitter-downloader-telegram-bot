@@ -3,7 +3,9 @@
 [![badge](https://img.shields.io/badge/version-1.0.0-40a8e8.svg)](https://github.com/imohamad/twitter-downloader-telegram-bot/releases) [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/twitter-downloader-telegram-bot/blob/master/LICENSE) 
 
 [Telegram](https://telegram.org/) bot for download video from twitter.
+
 see: [@twitterDownloaderBot](https://t.me/twitterDownloaderBot)
+GiF_version: [@twittdown_bot](https://t.me/twittdown_bot)
 
 ## Screenshot
 ![enter image description here](https://dl.dropboxusercontent.com/s/5gjfos78vo0mr1b/shot-1.jpg)
