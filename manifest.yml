@@ -1,4 +1,4 @@
 applications:
-- name: twitbot
+- name: twitdown
   no- route: true
-  memory: 128 M
+  memory: 128M
